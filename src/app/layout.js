@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
   return (
     <html>
       <head>
-        <title>First App1</title>
+        <title>First App</title>
       </head>
       <body>
         <header>
